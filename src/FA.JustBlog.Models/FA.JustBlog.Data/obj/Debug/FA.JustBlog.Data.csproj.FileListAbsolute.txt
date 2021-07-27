@@ -1,0 +1,5 @@
+C:\Users\nguyen tien dat\Downloads\DanhTai\FA.JustBlog\src\FA.JustBlog.Models\FA.JustBlog.Data\bin\Debug\FA.JustBlog.Data.dll
+C:\Users\nguyen tien dat\Downloads\DanhTai\FA.JustBlog\src\FA.JustBlog.Models\FA.JustBlog.Data\bin\Debug\FA.JustBlog.Data.pdb
+C:\Users\nguyen tien dat\Downloads\DanhTai\FA.JustBlog\src\FA.JustBlog.Models\FA.JustBlog.Data\obj\Debug\FA.JustBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\nguyen tien dat\Downloads\DanhTai\FA.JustBlog\src\FA.JustBlog.Models\FA.JustBlog.Data\obj\Debug\FA.JustBlog.Data.dll
+C:\Users\nguyen tien dat\Downloads\DanhTai\FA.JustBlog\src\FA.JustBlog.Models\FA.JustBlog.Data\obj\Debug\FA.JustBlog.Data.pdb
